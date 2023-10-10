@@ -8,7 +8,7 @@ llvmlite==0.31.0
 numba==0.48.0
 numpy==1.17.1
 opencv-contrib-python==4.8.1.78
-opencv-python==4.1.0.25
+opencv-python==4.8.1.78
 Pillow==9.5.0
 pycparser==2.21
 resampy==0.3.1
